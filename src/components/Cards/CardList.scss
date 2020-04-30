@@ -1,0 +1,43 @@
+
+.projects-description{
+    max-width:1000px;
+    margin:0 auto;
+    margin-top: 50px;
+    margin-bottom: 64px;
+    font-family: Poppins, sans-serif;
+    color: #b3b3b3;
+    font-size: 70px;
+    line-height: 94px;
+    font-weight: 600;
+}
+
+.card-columns{
+    max-width: 1000px;
+    min-height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    .card-list-even, .card-list-odd{
+        width: 470px;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .card-list-even{
+        margin-right: 16px;
+    }
+    .card-list-odd{
+        margin-left: 16px;
+    }
+}
+
+.card-list{
+    
+   
+    display:flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}

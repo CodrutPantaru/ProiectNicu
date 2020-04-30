@@ -1,0 +1,33 @@
+{   "projectsDescription": "We provide high quality video production services that make sense.",
+    "projectsList":[   {
+        "category": "Video Production",
+        "name": "Titanic",
+        "image": "https://i.pinimg.com/564x/32/a2/00/32a2005b8b5d80b83f4e4311736526c6.jpg",
+        "id": 1
+    },
+    {
+        "category": "Video Production",
+        "name": "Avengers",
+        "image": "https://i.pinimg.com/564x/a1/4a/d9/a14ad9f64785164ffbea7c48f6d3ab19.jpg",
+        "id": 4
+    },
+    {
+        "category": "Fotografii la nunta",
+        "name": "Nunta Ion si Vasilica",
+        "image": "https://i.pinimg.com/564x/64/ec/08/64ec086392f664795692534a85162e09.jpg",
+        "id": 3
+    },
+    {
+        "category": "Fotografii Masini",
+        "name": "Bugatti Veyron",
+        "image": "https://i.pinimg.com/564x/7b/88/1f/7b881fb5f033cfd31f87789f2e8840a7.jpg",
+        "id": 2
+    },
+    {
+        "category": "Fotografii Masini",
+        "name": "Bugatti Veyron",
+        "image": "./assets/img/about.jpg",
+        "id": 5
+    }
+]
+}

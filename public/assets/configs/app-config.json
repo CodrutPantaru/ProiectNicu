@@ -1,0 +1,12 @@
+{
+    "availableSections": {
+        "projects": true,
+        "testimonials": true,
+        "services": true
+    },
+    "author": "Sirbu Alex",
+    "title": "Your go to production company",
+    "description": "Lorem ipsum dolor sit amet, Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+    "email": "alexjdm11@gmail.com",
+    "address": "Strada Brasov nr 25, bloc Z2, \n Brasov, Romania"
+}

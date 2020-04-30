@@ -1,0 +1,20 @@
+.testimonial-list {
+    padding: 100px 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 986px;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .testimonial {
+        margin-bottom: 100px;
+        display: inline-block;
+        width: 450px;
+    }
+}
